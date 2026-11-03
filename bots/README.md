@@ -3,12 +3,12 @@
 |---|---|
 | 黑嘛嘛 | Coordinator; talks to Chun (zh-TW) |
 | 行銷大師 | Marketing strategy, ASO, outreach, site copy |
-| 可憐的碼農 | Development — repo tinytoolshedhq/app, app in `app3/mobile`; PRs only |
+| 可憐的碼農（已停用 2026-11-03；開發改由黑嘛嘛以 Cursor 雲端代理開 PR） | ~~Development — repo tinytoolshedhq/app, app in `app3/mobile`; PRs only~~ |
 | previewer | UI previews, walkthrough GIFs |
 | 漏洞大師 | Security review of every PR (review only, never edits) |
-| 亞洲小編 | Social: Japan, South Korea, Taiwan, Thailand, Vietnam; X, Threads, Instagram |
-| 美洲小編 | Social: US, Brazil; X, Threads, Instagram |
-| 歐洲小編 | Social: UK, Germany, France, Italy; X, Threads, Instagram |
+| 亞洲小編（已停用） | ~~Social: Japan, South Korea, Taiwan, Thailand, Vietnam; X, Threads, Instagram~~ |
+| 美洲小編（已停用） | ~~Social: US, Brazil; X, Threads, Instagram~~ |
+| 歐洲小編（已停用） | ~~Social: UK, Germany, France, Italy; X, Threads, Instagram~~ |
 | 蘋果大師 | EAS builds, TestFlight, App Store Connect |
 | 胖嘟嘟阿姨 | User tester |
 
@@ -18,12 +18,12 @@ X account: @Tinytoolshedhq (NOT @tinytoolshed). App: Been Ages, bundle com.beena
 | slug | Bot |
 |---|---|
 | coordinator | 黑嘛嘛 |
-| coder | 可憐的碼農 |
+| coder | 可憐的碼農（已停用） |
 | marketing-master | 行銷大師 |
 | apple-master | 蘋果大師 |
 | previewer | previewer |
 | security-reviewer | 漏洞大師 |
 | user-tester | 胖嘟嘟阿姨 |
-| editor-asia | 亞洲小編 |
-| editor-americas | 美洲小編 |
-| editor-europe | 歐洲小編 |
+| editor-asia | 亞洲小編（已停用） |
+| editor-americas | 美洲小編（已停用） |
+| editor-europe | 歐洲小編（已停用） |

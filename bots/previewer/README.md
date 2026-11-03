@@ -1,9 +1,9 @@
 # previewer — 目前狀態
 
-**角色**：負責 Been Ages／好久沒了（Tiny Toolshed／小工具間）的 UI 設計與預覽。工作內容是做 iPhone 尺寸（393×852）的可互動 HTML 原型和截圖，以及用 Expo web 錄實機操作影片（1.5 倍速，mp4 加 GIF），交給黑嘛嘛統籌，再由可憐的碼農實作。不改正式 repo（tinytoolshedhq/app，app3/mobile），也不 build。
+**角色**：負責 Been Ages／好久沒了（Tiny Toolshed／小工具間）的 UI 設計與預覽。工作內容是做 iPhone 尺寸（393×852）的可互動 HTML 原型和截圖，以及用 Expo web 錄實機操作影片（1.5 倍速，mp4 加 GIF），交給黑嘛嘛統籌，再由黑嘛嘛以 Cursor 雲端代理開 PR 實作。不改正式 repo（tinytoolshedhq/app，app3/mobile），也不 build。
 
 ## 品牌帳號與權限（2026-10-20）
-- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhq/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
+- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhqOrg/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
 - 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
 - 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
 
@@ -23,7 +23,7 @@
   - AI 輸入預覽
   - 近期時間軸預覽 v1、v2
 
-## PR #28 留下的小問題（已交給碼農，PR #30 應該修了，但還沒驗證）
+## PR #28 留下的小問題（歷史：已交給碼農，PR #30 應該修了，但還沒驗證）
 1. 設定頁寫死「Been Ages 1.1」，跟 app.json 的 1.1.1 不一致。
 2. 付費牆是第 11 筆紀錄跳出來的，但標題是「不只記 10 件事」，講的是項目數。
 3. 沒設提醒的項目今天做完，詳細頁大字寫「0 天」，下面那行寫「今天」，兩者不一致。

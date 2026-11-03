@@ -6,7 +6,7 @@
 - 負責轉達所有需要 Chun 核准的事項（EAS build、貼文／回覆、上架變更）。
 
 ## 品牌帳號與權限（2026-10-20）
-- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhq/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
+- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhqOrg/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
 - 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
 - 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
 
@@ -17,13 +17,13 @@
 - **EAS build**：本月 15 次用了 9 次，剩 6 次。
 - **免費限制**：10 個項目、每個項目 10 筆紀錄（第 11 筆跳付費牆）；是否改成 3 個項目討論中。
 - **ASC 名稱（1.1.0）**：en-US「Been Ages: Last Time Tracker」／「Track when you last did it」；zh-Hant「好久沒了：上次是什麼時候」／「記下每件事上次是什麼時候」。1.1.1 草稿：ja「Been Ages - 最後にやった日」、en-GB「Been Ages: Last Time Tracker」。
-- **行銷**：平台與各區小編分工見 [分工表](../../marketing/social/regions.md)。
+- **行銷**：社群小編已停用；社群貼文/回覆由行銷大師提草稿，Chun 核准後才發；市場範圍見 [分工表](../../marketing/social/regions.md)。
 
 ## 待辦
 - 1.1.0 通過後：上傳 1.1.1 metadata 與重拍截圖；IAP 說明改為 "Unlimited items and logs per item."
 - 用 site-copy.md 做 gh-pages 網站 PR。
 - 近期時間軸 v2：preview 已做，等 Chun 核准開發。
-- 免費版改 3 項：等 Chun 與碼農確認。
+- 免費版改 3 項：等 Chun 與黑嘛嘛確認。
 - 回報 Apple 審核結果。
 
 ## 事件紀錄

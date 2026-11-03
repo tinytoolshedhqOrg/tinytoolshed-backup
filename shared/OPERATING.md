@@ -11,13 +11,13 @@
   - `drafts/` — posts, scripts, replies ready for bots
   - `tasks/` — briefs for specific bots
   - `calendar/` — schedules
-- **Long-term durable** → `tinytoolshedhq/tinytoolshed-backup/shared/`
+- **Long-term durable** → `tinytoolshedhqOrg/tinytoolshed-backup/shared/`
   - `strategy/` — refined strategy docs
   - `notes/` — SuperGrok notes and summaries
 
 ## When to call which Bot
-- 可憐的碼農 — code changes, PRs, Expo/EAS builds
-- 亞洲小編 / 美洲小編 / 歐洲小編 — actual posting, replying, operating logged-in accounts
+- 黑嘛嘛（以 Cursor 雲端代理在 tinytoolshedhqOrg repo 開 PR） — code changes and PRs (EAS builds: 蘋果大師, with Chun's approval)
+- 社群小編已停用；社群貼文/回覆由行銷大師提草稿，Chun 核准後才發
 - 漏洞大師 — secret / credential leak scans
 - 黑麻麻 — only when coordination inside the bot system is needed
 - Others only when their specific responsibility is required

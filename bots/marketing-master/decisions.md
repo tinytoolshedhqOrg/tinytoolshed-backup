@@ -24,4 +24,4 @@
 - 每次發布前通知 Chun，提交原文與完整草稿；非中文部分分別附繁體中文翻譯，明確核准後才發布。
 - 從當日候選整理各國用語與來源，每週彙整成效。只做文字或圖片。
 ## 社群範圍（Chun，2026-11-03）
-平台與國家依[小編分工](../../marketing/social/regions.md)，執行方式依[社群執行規則](../../marketing/tiny-toolshed-launch.md)。
+平台與國家依[市場分工（社群小編已停用，由行銷大師提草稿）](../../marketing/social/regions.md)，執行方式依[社群執行規則](../../marketing/tiny-toolshed-launch.md)。

@@ -12,7 +12,7 @@
    - entitlements、版本號 / build 號、credentials
 4. 向黑嘛嘛回報內容與剩餘 build 次數，等 Chun 同意。
 5. `EXPO_NO_CAPABILITY_SYNC=1 eas build -p ios --profile production --non-interactive`
-   - 失敗不重試；把日誌重點送給黑嘛嘛和碼農。
+   - 失敗不重試；把日誌重點送給黑嘛嘛（由黑嘛嘛開修正 PR）。
 6. `eas submit -p ios --id <id> --non-interactive`
    - eas submit 會忽略環境變數，所以暫時把 ASC 欄位加進 eas.json，完成後 `git checkout eas.json`，絕不 commit。
 7. 輪詢 ASC 直到 VALID；查 Gmail 有無 ITMS 退件信。

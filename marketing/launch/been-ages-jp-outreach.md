@@ -8,11 +8,6 @@
 - 不自動留言、不用假帳號/分身、不互刷。
 - 商業模式：免費 10 個項目（每項 10 筆紀錄）；一次性購買即可無限項目（US $2.99，無上市優惠），無訂閱，不開家人共享（Family Sharing）。
 
-## 管道
-- X 日文貼文
-- 長文：note、Zenn
-- 免費 app 上架/介紹網站：アプリみっけ、AppLibrary、AppVillage、IndiePick
-
 ## ASO
 - Name: Been Ages - 最後にやった日（尚未查同名衝突）
 - TODO: subtitle、keywords 未能復原。
@@ -30,3 +25,6 @@ TODO: 時程與文案範本無法復原。
 
 ## Keyword update（2026-10-20 提案，未改上方現行欄位）
 依免費代理指標（App Store 搜尋建議＋iTunes Search API，非 Apple popularity 分數），提案見 `learning/keyword-demand-2026-10-20.md` 的「建議」表中 JP 一列。待 Chun 確認後才替換。
+
+## 社群執行
+平台與分工見[統一分工表](../social/regions.md)，執行方式見[社群執行規則](../tiny-toolshed-launch.md)。

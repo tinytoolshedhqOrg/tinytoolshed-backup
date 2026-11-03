@@ -2,8 +2,8 @@
 
 > **機器草稿（沒有母語校對）｜DRAFT, needs Chun approval**。不能直接上架，需母語者校對＋Chun 核准。
 
-- 撰寫：2026-10-20（台北時間）｜歐洲小編。依據：en-GB 修訂版（`been-ages-gb-outreach.md`）、美國版（`been-ages-us-outreach.md` §4）、`../learning/by-country/FR.md`、app 1.1.1 現有功能（`/workspace/bv/app3/mobile`）。
-- Chun 規則：法國只做 ASO＋短影音，不在 X／Threads 發文。
+- 撰寫：2026-10-20（台北時間）｜歐洲小編。依據：en-GB 修訂版（`been-ages-gb-outreach.md`）、美國版（`been-ages-us-outreach.md` §4）、app 1.1.1 現有功能（`/workspace/bv/app3/mobile`）。
+- 社群分工依[統一分工表](../social/regions.md)：歐洲小編負責 X、Threads、Instagram。
 - 主打：「Achat unique, sans abonnement」＋資料留在 iPhone。不提 widget、iCloud、備份。
 - 檢查：`python3 ../scripts/check-aso.py fr`（結果附在最後）。
 

@@ -1,51 +1,4 @@
-> [RESTORED 2026-10-20] 歐洲小編依自己 2026-10-17 寫入的原文復原：第 0–2 節、第 6–7 節與所有例句／連結逐字復原；第 3–5 節（回覆口吻、應避免、話題機會）為精簡版，內容相同但少了部分說明文字。例句與連結未重新驗證。行銷大師 2026-10-20 的佔位內容附在最下方。
-
-# 英國用語庫 GB（X＋Bluesky＋App Store 英國區評論，第一版）
-
-- **收集日期**：2026-10-17（台北時間）｜整理：歐洲小編
-- **來源**：X API（search_posts_all 13 次、get_trends_by_woeid 1 次，約 50 次讀取，沒碰到上限）；Bluesky 公開 API（`getPostThread`，只讀；**Bluesky 的公開搜尋 `searchPosts` 從 box 和 WebFetch 都回 403**，所以只能靠網頁搜尋找到貼文後再讀串）；App Store 英國區評論（`../../data/rev_534982023_gb.json`、`rev_1463692593_gb.json`，同類 app 的英國使用者真實評論；**原始 JSON 已於 2026-10-20 遺失**）；British Gas 2026 調查新聞稿。
-- **只收英國**：用帳號所在地（England／Scotland／Wales／Northern Ireland／UK 城市）、£、英式拼字和英國專屬用詞（MOT、railcard、narrowboat、Polyfilla 等）判斷。所在地空白但用詞明顯英式的標「(地點未填)」。美國、澳洲、紐西蘭、愛爾蘭的貼文只拿來對照。
-- **連結格式**：X 是 `https://x.com/i/status/<id>`；Bluesky 用 `https://bsky.app/profile/<handle>/post/<rkey>`。例句都是**原文節錄**，沒有改寫（拼字錯誤也照抄）。
-- **用途**：讓品牌帳號的英文聽起來像英國人寫的，**不是拿來套模板**。2026-10-17 起 Chun 決定**英國不發文、不回覆、只做 ASO**；本檔現在主要給商店頁用字參考。
-- 標【推論】的是我的歸納，不是查證過的事實。
-
-> ⚠️ 注意雜訊：
-> - 「change the bedding」「hoovered」搜尋結果混進不少成人內容；「life admin」幾乎被一個 AI 助理帳號洗版（同一段話換字重貼十幾次）。
-> - **一字不差的複製貼文**：「Has anyone actually put the heating on yet, or are we all still just layering jumpers and pretending it’s fine?」原帖 7,500+ 讚（https://x.com/i/status/2108830677168963662 ），之後至少兩個帳號一字不改重貼（https://x.com/i/status/2109191109410791540 、https://x.com/i/status/2109006255771820259 ）。
-> - 「boiler service」一搜就有很多水電行、AI 客服廣告。
-
----
-
-
-## ⛔ 發文／回覆鐵則（Chun 2026-10-20，優先於本檔其他內容）
-
-1. **App 在 App Store 上架前，所有貼文和回覆一律停止。**（英國本來就只做 ASO，上架後若 Chun 開放才適用以下規則。）
-2. 上架後，**每一則貼文和回覆**都必須：
-   - 說明**目前還沒有 Android 版**；
-   - 附 **Chun 提供的 1 支影片＋1 張照片**（Chun 沒給素材＝不發）；
-   - 附 **App Store 連結**。
-3. 上架後回覆不必逐則等核准，但**禁止大量回覆、自動回覆**。
-4. 定價口徑：£2.99／€2.99 一次買斷（US $2.99 同級），免費 10 個項目、每項 10 筆紀錄，沒有上市優惠，不提家人共享，不寫 unlock／freischalten／débloquer。
-
-### 「還沒有 Android」說法範例
-- en-GB：
-  - "iPhone only for now, sorry. No Android version yet."
-  - "It's iPhone-only at the moment; there's no Android version yet."
-  - "Not on Android yet, I'm afraid. iPhone only for now."
-- de【機器草稿】：
-  - "Aktuell nur fürs iPhone. Eine Android-Version gibt es noch nicht."
-  - "Für Android gibt's die App leider noch nicht – vorerst nur iPhone."
-- fr【機器草稿】：
-  - « Pour l'instant, uniquement sur iPhone. Pas encore de version Android. »
-  - « Désolé, l'app n'existe pas encore sur Android – iPhone seulement pour le moment. »
-
----
-
-## 0. 一句話總結
-
-英國人講「好久沒做某件事」的口氣是：**輕描淡寫＋自嘲＋一點點反諷**，不是美式的「OMG I'm so bad at this!!!」。例如去做年度熱水爐保養，會寫「Sensibly getting my boiler service today. How exciting!! 😂」（https://x.com/i/status/2100881184381116704 ）──把很無聊的事故意講得很興奮，這就是笑點。
-
----
+# 英國用語庫 GB
 
 ## 1. 英式 vs 美式英文（本檔重點）
 
@@ -181,7 +134,7 @@ App Store 英國區評論（同類 app）：
 
 ---
 
-## 3. 回覆口吻（僅供參考；英國目前不回覆）
+## 3. 回覆口吻
 | 口吻 | 例句 | 連結 |
 |---|---|---|
 | 被提醒才想起 | 「That's lucky as I had completely forgotten and not put it in my diary.」 | https://x.com/i/status/2102017316305129970 |
@@ -202,52 +155,5 @@ App Store 英國區評論（同類 app）：
 | 10/19 | 19 Oct |
 - 不用 lol／OMG 連發；不用 bloody、arsed、sod off（例：https://x.com/i/status/2110149575344357752 ）；不用 owt、nowt、innit；不打 x；不碰政治（例：https://x.com/i/status/2108895724020588717 ）、募款、喪親；不提 widget、iCloud。
 
-## 5. 話題機會（【推論】；英國現只做 ASO，改用在截圖與預設項目）
-1. 開暖氣季：bleed the radiators。2. 時鐘調回。3. British Gas 拖延清單。4. MOT／railcard／TV licence。5. 「1 year」不等於 20 個月。
 
-## 6. 和現有文件的衝突與補充
-| 現有文件寫的 | 觀察 | 建議 |
-|---|---|---|
-| MOT、boiler 例子「未查證」 | 有使用者語料＋British Gas 調查 | 搜尋量仍未查證 |
-| contacts、water filter | 英國 lenses／filter jug 也常見【推論】 | 2026-10-20 行銷大師建議 keywords 用 contacts，已採用 |
-| youth-slang-guide 的 innit／safe | 年輕人／地方口語 | 品牌不用 |
-
-## 7. 收集限制
-- Bluesky 公開搜尋 403；沒有用 box 已登入的帳號去搜。Bluesky 例句 6 則，無所在地欄位。
-- X 搜尋無法篩英國，只能靠英式用詞，會高估 yonks、fortnight 的頻率【推論】。
-- 年輕人口語樣本少；App Store 英國區評論 43 則；Threads 只有 1 則。
-
----
-## 行銷大師 2026-10-20 佔位內容（原樣保留）
-> Rebuilt 2026-10-20 after data loss; sections marked [RECONSTRUCTED-PARTIAL] may be incomplete
-> 來源：行銷大師記憶摘要（原檔、備份、對話紀錄皆無法取得）。未標註來源者為記憶事實，非新推論。
-
-# Phrase bank GB
-TODO: 內容無法復原。 原檔由歐洲小編撰寫，請其補回。
-
-## 上架前後發文規則（Chun，2026-10-20）
-- 上架 App Store 前：所有社群發文和回覆一律暫停。
-- 上架後每則發文和回覆都必須：說明目前還沒有 Android 版；附 1 支影片 + 1 張照片（由 Chun 提供）；附 App Store 連結。
-
----
-## 2026-10-26 每週學習（歐洲小編，只讀不互動；英國仍只做 ASO）
-> 來源：x MCP `search_posts_all`（1 次，lang:en，2026-10-19 起，關鍵字 clocks go back／for ages／yonks／bleed the radiators）。本週英國時鐘 10/25 調回，樣本被這個話題主導；個人貼文互動都很低（≤10 讚），多半是機構提醒文。Threads／Bluesky 本週未重查。
-
-### 新觀察
-| 模式 | 實例（原文節錄） | 連結 |
-|---|---|---|
-| 「Two types of person…」二分法開場，自嘲 | 「Two types of person… ‘Ooh the clocks went back, an extra hour in bed!!’ ‘Ooh … i can get up and out an hour earlier!!’」（Wales） | https://x.com/MeldrewsGhost/status/2114262372160581760 |
-| 「Everyone else gets X. [職業] get Y.」反差句 | 「Everyone else gets an extra hour in bed. Social workers get the 4pm visit that is now a night visit…」 | https://x.com/socialworkO/status/2112521256872394755 |
-| 「Guess who's …」自打臉 | 「Laughed at the team on night shift last year … Guess who's on night shift this week when the clocks go back」（5 讚） | https://x.com/jubzy_497/status/2112178919004942786 |
-| 時鐘調回＝冬季待辦清單（最貼近 Been Ages） | 「reset the heating and outside light timers, bleed the radiators, clear the gutters, and make sure more than one person knows where the stopcock is」（Liverpool 村會館） | https://x.com/VillageHallHub/status/2112869004771811377 |
-| 同上，**競品式 app 帳號**的清單貼文 | 「6 winter jobs you might have forgotten: • Test the smoke alarms • Bleed the radiators • Book the boiler service • Turn off the outside tap • Clear the gutters • Check the car's tyres」 | https://x.com/dyptapp/status/2113691925467550032 |
-| 機構提醒固定句 | 「Don't forget! The clocks go back this weekend … giving us an extra hour in bed.」 | https://x.com/PeterboroughCC/status/2112921852280521134 |
-
-### 新詞（ASO 可參考）
-- stopcock（總水閥）、outside tap、gutters、smoke alarms、timers——英式家務詞，可放進預設項目或截圖文字【推論】。
-- 「extra hour in bed」是時鐘調回的固定說法。
-
-### 【推論】結論
-- 英國式幽默仍是反差＋自嘲（Two types of person／Guess who's）。
-- 「時鐘調回時順便做的冬季雜事」是很自然的季節場景；明年 3 月底時鐘撥快、10 月底調回都可當截圖或上架後內容的掛點。
-- 已有 app 帳號（dyptapp）在用同樣的清單角度，要避免撞句。
+平台與國家依[統一分工](../regions.md)，發布依[社群執行規則](../../tiny-toolshed-launch.md)。

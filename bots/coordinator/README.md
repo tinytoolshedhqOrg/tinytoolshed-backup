@@ -17,7 +17,7 @@
 - **EAS build**：本月 15 次用了 9 次，剩 6 次。
 - **免費限制**：10 個項目、每個項目 10 筆紀錄（第 11 筆跳付費牆）；是否改成 3 個項目討論中。
 - **ASC 名稱（1.1.0）**：en-US「Been Ages: Last Time Tracker」／「Track when you last did it」；zh-Hant「好久沒了：上次是什麼時候」／「記下每件事上次是什麼時候」。1.1.1 草稿：ja「Been Ages - 最後にやった日」、en-GB「Been Ages: Last Time Tracker」。
-- **行銷**：X 帳號 @Tinytoolshedhq（不是 @tinytoolshed）；Reddit 已放棄（擋雲端 IP）；美國改走 Product Hunt、X、媒體、ASO。
+- **行銷**：平台與各區小編分工見 [分工表](../../marketing/social/regions.md)。
 
 ## 待辦
 - 1.1.0 通過後：上傳 1.1.1 metadata 與重拍截圖；IAP 說明改為 "Unlimited items and logs per item."

@@ -1,3 +1,5 @@
+> ⚠️ 已停用（2026-11-03 Chun 決定）：此 bot 已不存在，不要再呼叫或交辦。內容僅供歷史參考。
+
 # 可憐的碼農（coder）
 
 Chun 的 iOS app 開發負責人。Repo：`tinytoolshedhq/app`（Expo monorepo），主力是 `app3/mobile` 的 Been Ages。

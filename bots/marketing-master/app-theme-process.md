@@ -12,7 +12,7 @@
 - 每個主題都要先找 3 個現在能在 App Store 下載的競品，分析它們的優勢。
 - 技術用 Expo，App 跟著手機系統語言切換，不跟 Been Ages 重疊。
 - 研究和開發都要零成本或低成本，EAS 每個月只有 15 次 build。
-- 社群市場與小編分工依 `marketing/social/regions.md` 的已定案清單。
+- 社群市場範圍（小編已停用）依 `marketing/social/regions.md` 的已定案清單。
 - 定價以一次買斷為主，免費版要給得夠用，文案不用「unlock」這個字。
 
 ### 8 步流程

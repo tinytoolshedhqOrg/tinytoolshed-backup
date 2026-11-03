@@ -3,7 +3,7 @@
 > **機器草稿（沒有母語校對）｜DRAFT, needs Chun approval**。不能直接上架，需母語者校對＋Chun 核准。
 
 - 撰寫：2026-10-20（台北時間）｜歐洲小編。依據：en-GB 修訂版（`been-ages-gb-outreach.md`）、美國版（`been-ages-us-outreach.md` §4）、app 1.1.1 現有功能（`/workspace/bv/app3/mobile`）。
-- 社群分工依[統一分工表](../social/regions.md)：歐洲小編負責 X、Threads、Instagram。
+- 社群分工依[統一分工表](../social/regions.md)：歐洲小編負責 X、Threads、Instagram（已停用；改由行銷大師提草稿，Chun 核准後才發）。
 - 主打：「Einmalkauf, kein Abo」＋資料留在裝置上（Daten bleiben lokal／auf deinem iPhone）。不提 widget、iCloud、備份。
 - 檢查：`python3 ../scripts/check-aso.py de`（結果附在最後）。
 

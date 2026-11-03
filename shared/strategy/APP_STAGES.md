@@ -22,18 +22,18 @@ Last updated: 2026-10-30
 
 ## Post-Change Workflow (Stages 2–5)
 
-1. 可憐的碼農 finishes changes
+1. 黑嘛嘛（以 Cursor 雲端代理在 tinytoolshedhqOrg repo 開 PR） finishes changes
 2. → 漏洞大師 scans for secrets / issues → fix until clean
-3. → 胖嘟嘟阿姨 tests → issues go back to 可憐的碼農
+3. → 胖嘟嘟阿姨 tests → issues go back to 黑嘛嘛
 4. → 黑媽媽 + user confirm
 5. → 蘋果大師 builds / submits
 
 ## Weekly Feedback Loop (Stage 5 and late Stage 4)
 
-- 小編們 continue weekly learning schedule
+- 社群小編已停用；社群貼文/回覆由行銷大師提草稿，Chun 核准後才發
 - 行銷大師 weekly summarizes community replies → suggestion list
 - User reviews and approves the list
-- 可憐的碼農 implements → follow the Post-Change Workflow above
+- 黑嘛嘛 implements (Cursor cloud agent PR) → follow the Post-Change Workflow above
 
 ## Current App Status
 

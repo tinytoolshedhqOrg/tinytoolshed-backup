@@ -1,3 +1,5 @@
+> ⚠️ 已停用（2026-11-03 Chun 決定）：此 bot 已不存在，不要再呼叫或交辦。內容僅供歷史參考。
+
 # 美洲小編工作流程
 
 1. 依[分工表](../../marketing/social/regions.md)，處理美國、巴西在 X、Threads、Instagram 的內容。

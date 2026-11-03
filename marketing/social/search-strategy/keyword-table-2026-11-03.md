@@ -50,13 +50,84 @@
 
 | App | 平台 | 國家 | 最佳關鍵字 | 符合貼文 URL(s) | 備註 |
 |---|---|---|---|---|---|
-| 全部 3 個 App | Threads | 全部 11 國 | 待查 | 待查 | 待查 |
+| Been Ages | Threads | US | `when did you last change your toothbrush` | NA |  |
+| Been Ages | Threads | GB | 同 US 英文池 | NA |  |
+| Been Ages | Threads | JP | `シーツ 洗う頻度` | NA |  |
+| Been Ages | Threads | KR | `침대 시트 빨래 얼마나` | NA |  |
+| Been Ages | Threads | TW | `多久換一次` | NA |  |
+| Been Ages | Threads | TH | `ซักผ้าปูที่นอน` | NA |  |
+| Been Ages | Threads | VN | `giặt ga giường bao lâu` | NA |  |
+| Been Ages | Threads | BR | `lavar lençol com que frequência` | NA |  |
+| Been Ages | Threads | DE | `Bettwäsche wechseln wie oft` | NA |  |
+| Been Ages | Threads | FR | `changer ses draps tous les combien` | NA |  |
+| Been Ages | Threads | IT | `ogni quanto cambiare le lenzuola` | NA |  |
+| 分貝計 | Threads | US | `upstairs neighbours noise` | https://www.threads.com/t/DfIb7HpFLLS | 樓上噪音抱怨（10-31，558 讚／198 留言）；英文，US/GB 共用 |
+| 分貝計 | Threads | GB | 同 US 英文池 | 同 US（無法區分英美） | 英文貼文分不出英國或美國 |
+| 分貝計 | Threads | JP | `騒音 上の階` | NA |  |
+| 分貝計 | Threads | KR | `층간소음` | NA |  |
+| 分貝計 | Threads | TW | `樓上 噪音` | NA |  |
+| 分貝計 | Threads | TH | `เพื่อนบ้าน เสียงดัง` | NA |  |
+| 分貝計 | Threads | VN | `ồn ào hàng xóm` | NA |  |
+| 分貝計 | Threads | BR | `barulho vizinho de cima` | NA |  |
+| 分貝計 | Threads | DE | `Nachbar Lärm über uns` | NA |  |
+| 分貝計 | Threads | FR | `voisin du dessus bruit` | NA |  |
+| 分貝計 | Threads | IT | `vicini rumore piano di sopra` | NA |  |
+| 居家伸展 | Threads | US | `desk stiff neck stretch` | NA |  |
+| 居家伸展 | Threads | GB | 同 US 英文池 | NA |  |
+| 居家伸展 | Threads | JP | `ストレッチ 肩こり` | NA | 最接近的一則 48 讚／41 留言，未達門檻 |
+| 居家伸展 | Threads | KR | `거북목 스트레칭` | NA |  |
+| 居家伸展 | Threads | TW | `久坐 伸展` | NA |  |
+| 居家伸展 | Threads | TH | `ยืดเส้น ออฟฟิศซินโดรม` | NA |  |
+| 居家伸展 | Threads | VN | `đau vai gáy ngồi nhiều` | NA |  |
+| 居家伸展 | Threads | BR | `alongamento pescoço ombro` | NA |  |
+| 居家伸展 | Threads | DE | `Dehnübungen Nacken Schreibtisch` | NA |  |
+| 居家伸展 | Threads | FR | `étirements cou épaules bureau` | NA |  |
+| 居家伸展 | Threads | IT | `stretching collo spalle scrivania` | NA |  |
 
 ## Instagram
 
 | App | 平台 | 國家 | 最佳關鍵字 | 符合貼文 URL(s) | 備註 |
 |---|---|---|---|---|---|
-| 全部 3 個 App | Instagram | 全部 11 國 | 待查 | 待查 | 待查 |
+| Been Ages | Instagram | US | `how often wash bed sheets` | https://www.instagram.com/p/DfAqBKiiWvZ/ | 家用品該多久更換的清單（10-27，2,059 讚／80 留言），相關性邊緣；US/GB 共用 |
+| Been Ages | Instagram | GB | 同 US 英文池 | 同 US（無法區分英美） |  |
+| Been Ages | Instagram | JP | `シーツ 洗う頻度` | NA |  |
+| Been Ages | Instagram | KR | `이불 빨래 주기` | NA |  |
+| Been Ages | Instagram | TW | `床單 多久洗一次` | NA |  |
+| Been Ages | Instagram | TH | `ซักผ้าปูที่นอน` | NA |  |
+| Been Ages | Instagram | VN | `giặt ga giường bao lâu` | NA |  |
+| Been Ages | Instagram | BR | `lavar lençol frequência` | NA |  |
+| Been Ages | Instagram | DE | `Bettwäsche wechseln` | https://www.instagram.com/p/DfCRGvsDCLw/ | 家事技巧帳號（10-28，1,102 讚／64 留言），相關性邊緣 |
+| Been Ages | Instagram | FR | `changer draps fréquence` | https://www.instagram.com/p/DfDU9Ynv1H1/ | 提問型貼文（10-28，867 讚／71 留言） |
+| Been Ages | Instagram | IT | `cambiare lenzuola ogni quanto` | NA |  |
+| 分貝計 | Instagram | US | `noisy upstairs neighbours` | NA |  |
+| 分貝計 | Instagram | GB | 同 US 英文池 | NA |  |
+| 分貝計 | Instagram | JP | `騒音 上の階` | https://www.instagram.com/p/DfMMvsHP2Vb/ | 深夜噪音告示（11-01，344 讚／9 留言） |
+| 分貝計 | Instagram | KR | `층간소음` | NA |  |
+| 分貝計 | Instagram | TW | `樓上 噪音` | NA |  |
+| 分貝計 | Instagram | TH | `เพื่อนบ้านเสียงดัง` | NA |  |
+| 分貝計 | Instagram | VN | `hàng xóm ồn ào` | NA |  |
+| 分貝計 | Instagram | BR | `barulho vizinho de cima` | NA |  |
+| 分貝計 | Instagram | DE | `Lärm Nachbarn` | NA |  |
+| 分貝計 | Instagram | FR | `bruit voisins` | NA |  |
+| 分貝計 | Instagram | IT | `vicini rumorosi` | NA |  |
+| 居家伸展 | Instagram | US | `desk neck pain stretches` | NA |  |
+| 居家伸展 | Instagram | GB | 同 US 英文池 | NA |  |
+| 居家伸展 | Instagram | JP | `肩こり ストレッチ` | NA |  |
+| 居家伸展 | Instagram | KR | `거북목 스트레칭` | NA |  |
+| 居家伸展 | Instagram | TW | `久坐 伸展` | https://www.instagram.com/p/DfGlCXjIUHw/ | 瑜伽創作者的久坐伸展（10-29，5,155 讚／68 留言） |
+| 居家伸展 | Instagram | TH | `ยืดเส้น ออฟฟิศซินโดรม` | NA |  |
+| 居家伸展 | Instagram | VN | `đau vai gáy dân văn phòng` | NA |  |
+| 居家伸展 | Instagram | BR | `alongamento dor no pescoço` | NA |  |
+| 居家伸展 | Instagram | DE | `Nackenschmerzen Schreibtisch` | NA |  |
+| 居家伸展 | Instagram | FR | `mal de dos bureau` | NA |  |
+| 居家伸展 | Instagram | IT | `mal di schiena ufficio` | NA |  |
+
+## Threads／Instagram 限制
+
+- 查詢時間：Threads 2026-11-03 21:20–21:45、Instagram 21:45–21:55（台北時間）；門檻：2026-10-27～11-03 發布，讚 ≥100 或留言 ≥50，且主題相關
+- 兩個平台都是用瀏覽器搜尋，每次載入結果都不同，且只顯示約 5–17 則近期貼文
+- Instagram 的合格貼文多半是技巧／創作者帳號，不是一般個人
+- NA = 已載入的結果中沒有合格貼文，不代表當地完全沒有
 
 ## 觀察
 

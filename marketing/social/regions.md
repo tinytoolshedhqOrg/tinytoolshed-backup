@@ -46,34 +46,3 @@
 | 德國 | 德文 | 補充 | 補充 | 圖文優先／留言補充 | 圖文經營先看 Instagram；每日回覆在 Threads、X 擇相關串。 |
 | 法國 | 法文 | 補充 | 補充 | 圖文優先／留言補充 | 圖文經營先看 Instagram；每日回覆在 Threads、X 擇相關串。 |
 | 義大利 | 義大利文 | 補充 | 補充 | 圖文優先／留言補充 | 圖文經營先看 Instagram；每日回覆在 Threads、X 擇相關串。 |
-
-## 判斷依據
-
-下表是可核對的共同口徑基準：**GWI 2025 年第 2 季調查，16 歲以上網路使用者自報過去一個月使用率**，收錄於 Digital 2026 全球報告。不是全國人口占比、廣告可觸及人數，也不是 2026 年 11 月活躍數或下載率。[原報告](https://wearesocial.com/wp-content/uploads/2025/10/GDR-2026.pdf)的 X、Threads、Instagram 分別見第 574、596、493 頁。
-
-| 國家 | X | Threads | Instagram |
-|---|---:|---:|---:|
-| 日本 | 45.4% | 6.9% | 44.8% |
-| 南韓 | 20.5% | 10.0% | 62.3% |
-| 台灣 | 27.6% | 35.2% | 63.4% |
-| 泰國 | 45.6% | 19.9% | 66.9% |
-| 越南 | 29.6% | 18.9% | 50.4% |
-| 美國 | 32.4% | 13.4% | 58.2% |
-| 巴西 | 39.3% | 24.9% | 91.2% |
-| 英國 | 34.0% | 10.7% | 55.8% |
-| 德國 | 16.9% | 7.0% | 56.2% |
-| 法國 | 21.7% | 7.5% | 55.4% |
-| 義大利 | 19.4% | 10.8% | 71.3% |
-
-另以 [Pew 2026 年跨國成年人調查](https://www.pewresearch.org/global/2026/10/01/social-media-platform-use-around-the-world/)交叉檢查：日本 X 使用率 51%、南韓 28%；巴西 Instagram 67%、X 7%；德國、法國、義大利 Instagram 分別 45%、48%、60%。Pew 的母體與 GWI 不同，不把兩者相減當成成長／衰退率；它們共同支持日本先查 X，以及巴西、德法義重視 Instagram 受眾。
-
-補充證據：[台灣 Digital 2026 報告](https://datareportal.com/reports/digital-2026-taiwan)記錄 Threads 在 2025 年底的廣告可觸及規模約 665 萬；[越南報告](https://datareportal.com/reports/digital-2026-vietnam)約 465 萬。這些是廣告規模線索，不能當成現在的活躍用戶數或合格貼文數。越南 Threads 因而列為優先試行，非已驗證的最佳渠道。
-
-[Digital 2027 全球報告](https://datareportal.com/reports/digital-2027-global-overview-report)已於 2026-10-21 發布，個別國家詳細報告預計 11 月中起發布。本頁的共同口徑數字仍明確標為 2025 Q2 基準，搭配上述 2026 調查判讀，沒有把舊數字改標為最新。
-
-## 導流與每日執行
-
-- Threads 支援貼文及個人檔案連結，並可查看連結造訪；參考 [Meta 官方功能說明](https://about.fb.com/news/2025/03/new-threads-features-more-personalized-experience-you-control/)。Instagram 留言中的外部網址通常無法直接點擊，需透過個人檔案等入口，導流步驟較多，因此本頁把圖文與留言適合度分開；參考[連結位置說明](https://www.kontentino.com/q-and-a/clickable-links-instagram-captions/)。
-- 各國平台使用率只幫助安排搜尋順序，不能保證每天都有 2 則「24 小時內、留言與按讚都 >100」的相關貼文；本次沒有逐國抽樣驗證這個門檻的供給量。
-- 每天每國跨三平台合計最多 **2 則**；門檻仍為 **24 小時內、留言數 >100 且按讚數 >100**（暫定），不足不湊數。即使 Instagram 列為圖文優先，也不增加候選配額。
-- 每次發布前都先通知 Chun，提交原貼文及完整草稿；非中文部分各附繁中翻譯，明確核准後才發布。詳細規則以[社群執行規則](../tiny-toolshed-launch.md)為準。

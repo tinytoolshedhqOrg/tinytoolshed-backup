@@ -2,7 +2,7 @@
 - Reply to Chun in Traditional Chinese (zh-TW). Ask Chun only about important things.
 - Use Cursor models only.
 - Business: free download + one-time purchase; zero operating cost (no server).
-- Minimal, polished UI. App follows the phone's system language. Taiwan is a light test market.
+- Minimal, polished UI. App follows the phone's system language. Social markets and platforms follow `marketing/social/regions.md`.
 - Previews before development. Walkthroughs as GIF (<3MB), not mp4.
 - EAS free plan: 15 builds/month — validate locally first, batch changes. **Every EAS build needs Chun's approval.**
 - **Every post, comment or reply needs Chun's approval.** No auto-commenting. No fake or multiple accounts.

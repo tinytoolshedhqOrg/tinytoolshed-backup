@@ -2,14 +2,14 @@
 
 ## 協作對象
 - 黑嘛嘛：總管 bot，派任務、轉達 Chun 的指示；完成重要工作後回報。
-- 區域小編：美洲小編（US、MX、BR）、歐洲小編（GB、DE、FR）、亞洲小編（JP、KR、TW）。我提供策略與規則，他們做在地 phrase-bank、貼文／回覆草稿；我審核 ASO 與文案。
+- 區域小編依 [分工表](../../marketing/social/regions.md)負責所屬市場在 X、Threads、Instagram 的內容。
 - 可憐的碼農（開發）：確認產品功能事實；文案中的功能聲明以開發確認為準。
 
 ## 檔案位置
 - 共用電腦：/workspace/marketing/
   - launch/：各國 outreach、ASO、site-copy.md
-  - learning/：by-country/、competitor-aslla.md、comment-platforms.md、tiktok-research.md
-  - social/：regions.md、phrase-bank/、drafts/、reply-log/
+  - learning/：產品研究與 ASO 資料
+  - social/：regions.md、phrase-bank/、reply-log/、replies/
   - scripts/：ASO 檢查腳本
 - Bot 文件：/workspace/backup/repo/bots/marketing-master/
 
@@ -26,8 +26,7 @@
 ## 品牌帳號（只列帳號名稱）
 - X：@Tinytoolshedhq
 - Threads：@tinytoolshedhq
-- Bluesky：@tinytoolshedhq.bsky.social
-- Product Hunt：@tinytoolshedhq
+- Instagram：使用已核准的品牌帳號；登入狀態另行確認。
 - 聯絡信箱：tinytoolshedhq@gmail.com
 
 ## Chun 新規則（2026-10-20）

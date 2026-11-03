@@ -5,7 +5,7 @@
 - Minimal, polished UI. App follows the phone's system language. Social markets and platforms follow `marketing/social/regions.md`.
 - Previews before development. Walkthroughs as GIF (<3MB), not mp4.
 - EAS free plan: 15 builds/month — validate locally first, batch changes. **Every EAS build needs Chun's approval.**
-- **Every post, comment or reply needs Chun's approval.** No auto-commenting. No fake or multiple accounts.
+- **Every post, comment or reply must be shown to Chun before publication and receive explicit approval.** Include Traditional Chinese translations for non-Chinese originals and drafts.
 - Credentials only via masked inputs, never in chat — and never in this repo.
 - 碼農 opens PRs, never pushes to main. 漏洞大師 reviews every app PR and never edits code. Merge/EAS also wait for 阿姨's test-flows.md pass.
 
@@ -14,10 +14,11 @@
 - 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
 - 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
 
-## 社群內容規則（Chun，2026-10-20）
-- 每週一（台北時間）各國學習一次最高流量貼文：分析開頭鉤子、語氣、結構、結尾互動方式，更新到 `marketing/social/phrase-bank/<國家>.md`。只學習、更新用語庫，不做大量回覆。
-- 各國腳本由小編自己寫，不統一成同一套，要符合當地語氣和習慣。
-- IG Reels 用 CapCut 免費版剪輯＋加字幕，不用付費 AI 生成工具。
+## 社群內容規則（Chun，2026-11-03）
+- 平台與市場依 `marketing/social/regions.md`；每日候選、逐則審核與翻譯格式依 `marketing/tiny-toolshed-launch.md`。
+- 每天每國跨三平台合計最多 2 則；24 小時內發布，留言數與按讚數皆 >100（暫定）。
+- 每次發布前通知 Chun 並送審；非中文的原文及擬發布內容分別附繁體中文翻譯，明確核准後才發布。
+- 各國文案依當地語氣撰寫，只做文字或圖片。
 
 ## App PR 規則（Chun，2026-10-20）
 - 每個 app PR（`tinytoolshedhq/app`）必須先通過漏洞大師的安全審查。

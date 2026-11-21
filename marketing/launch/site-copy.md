@@ -1,3 +1,4 @@
+
 # Tiny Toolshed — Site Copy (GitHub Pages: tinytoolshedhq.github.io/app)
 
 > 給 Chun：2026-10-20 已依開發確認（main d3a510c）解決 [VERIFY] 功能標記；免費額度為 10 items, 10 records per item；App Store 連結與回覆天數仍是 [TODO]。不可宣稱一鍵刪除全部資料。
@@ -170,3 +171,5 @@ When you write, please include your iPhone model, iOS version, and app version.
 | EULA | Optional | Apple standard EULA (default) — Terms page links to it |
 
 > 給 Chun：上線前請確認每個網址都能開啟（404 會被審核退件）。
+
+
